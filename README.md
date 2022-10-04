@@ -1,4 +1,4 @@
-Searchor
+Searchor - get queries
 ========
 ![PyPI](https://img.shields.io/pypi/v/searchor?color=green&logo=python&logoColor=green)
 [![Discord](https://img.shields.io/discord/1026470859868741662)](https://discord.gg/fPXNMW7swn)
